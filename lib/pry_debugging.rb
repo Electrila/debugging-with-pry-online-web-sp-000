@@ -5,3 +5,5 @@ def plus_t
   binding.pry
 	num
 end
+
+plus_t
